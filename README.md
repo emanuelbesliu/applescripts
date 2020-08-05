@@ -12,3 +12,4 @@
 - [Set display brightness to 0%](dis0.applescript)
 - [Get current date add it to clipboard](gdate.applescript)
 - [Get current day add it to clipboard](gday.applescript)
+- [Get current month add it to clipboard](gmonth.applescript)
