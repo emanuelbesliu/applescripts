@@ -14,3 +14,4 @@
 - [Get current day add it to clipboard](gday.applescript)
 - [Get current month add it to clipboard](gmonth.applescript)
 - [Alert at hh:mm](alert.applescript)
+- [Check UPTIME. If greater than 7 days display message to restart](uptime.applescript)
