@@ -1,7 +1,4 @@
-# applescripts
-
-
-## Script Summary
+# Script Summary
 
 - [Check UPTIME. If greater than 7 days display message to restart](uptime.applescript)
 - [Toggle Dark Mode](toggle_dark_mode.applescript)
